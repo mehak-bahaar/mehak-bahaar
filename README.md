@@ -21,6 +21,10 @@ Here are some technologies and tools I frequently work with:
 - Tailwind css
 - Sass
 - shad cn
+- typescript
+- Docker
+- php
+- express
 
 ## 🌱 Current Focus
 
